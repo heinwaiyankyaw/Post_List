@@ -1,0 +1,6 @@
+
+CRUD
+UI need CRU
+Create (true)
+Read (true)
+Update(true)
